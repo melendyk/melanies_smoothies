@@ -6,7 +6,9 @@ from snowflake.snowpark.functions import col
 st.title("My Parents New Healthy Diner")
 st.header("Breadfast Menu")
 st.write(
-    """Choose the fruits you want in your custom Smoothie!
+    """Omega 3 & Blueberry Oatmeal
+    Kale, Spinich & Rocket Smoothie
+    Hard-Boiled Free-Range Egg
     """
 )
 
